@@ -1,7 +1,7 @@
 # SignIn
 SignIn software to aid educational environments
 
-![Screenshot](https://github.com/TechnologyClassroom/SignIn/blob/master/image.gif?raw=true "Screenshot")
+![Screenshot](https://github.com/TechnologyClassroom/SignIn/blob/master/SignIn.PNG?raw=true "Screenshot")
 
 This is an INCOMPLETE project to create a sign in solution for a building, room, or small youth organization.
 
