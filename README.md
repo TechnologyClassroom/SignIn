@@ -1,6 +1,8 @@
 # SignIn
 SignIn software to aid educational environments
 
+![Screenshot](https://github.com/TechnologyClassroom/SignIn/blob/master/image.gif?raw=true "Screenshot")
+
 This is an INCOMPLETE project to create a sign in solution for a building, room, or small youth organization.
 
 This would be an excellent beginner project for someone with little experience with python.
