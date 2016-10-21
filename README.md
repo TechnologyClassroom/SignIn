@@ -93,6 +93,7 @@ The easiest way to install Python (and many other common programs) for Windows i
 - https://docs.python.org/3/library/index.html
 - https://docs.python.org/3/library/math.html
 - https://docs.python.org/3/library/tk.html
+- https://thenewboston.com/videos.php?cat=99
 - https://docs.python.org/3/library/sqlite3.html
 
 # How to install a test environment
