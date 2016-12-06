@@ -105,7 +105,7 @@ class SecondWindow():
         button1 = Button(self.frame, text="Sign in!", command=self.addUser)
         button1.grid(row=4, columnspan=2)
 
-        Label(self.frame, text="If your name is missng from the list, \n write your first and last name here.\nIf you are not a member, please register.").grid(row=5, columnspan=2)
+        Label(self.frame, text="If your name is missing from the list, \n write your first and last name here.\nIf you are not a member, please register.").grid(row=5, columnspan=2)
         e2 = Entry(self.frame, textvariable=self.entry2)
         e2.grid(row=6, columnspan=2)
         e2.insert(0, 'Ex: Briana Mayes')
