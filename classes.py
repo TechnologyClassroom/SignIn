@@ -28,7 +28,7 @@ class FirstWindow():
 
         self.frame.grid()
 
-        menubar = Menu(master)
+        menubar = Menu(master, tearoff=False)
         master['menu'] = menubar
 
         menu_file = Menu(menubar)
@@ -73,7 +73,7 @@ class SecondWindow():
 
         self.frame.grid()
     
-        menubar = Menu(master)
+        menubar = Menu(master, tearoff=False))
         master['menu'] = menubar
 
         menu_file = Menu(menubar)
@@ -152,7 +152,7 @@ class ThirdWindow():
 
         self.frame.grid()
 
-        menubar = Menu(master)
+        menubar = Menu(master, tearoff=False))
         master['menu'] = menubar
 
         menu_file = Menu(menubar)
