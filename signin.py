@@ -37,7 +37,7 @@ class AllWidgets():
         menubar = Menu(root)
         root['menu'] = menubar
         
-        menu_file = Menu(menubar)
+        menu_file = Menu(menubar, tearoff=False)
         menu_file.add_command(label="Quit", command=self.quit)
         
         menubar.add_cascade(menu=menu_file, label='File')
