@@ -26,7 +26,7 @@ class FirstWindow():
 
         self.build_window()
 
-        self.frame.pack()
+        self.frame.grid()
 
         menubar = Menu(master)
         master['menu'] = menubar
@@ -71,7 +71,7 @@ class SecondWindow():
 
         self.build_window()
 
-        self.frame.pack()
+        self.frame.grid()
     
         menubar = Menu(master)
         master['menu'] = menubar
@@ -150,7 +150,7 @@ class ThirdWindow():
 
         self.build_window()
 
-        self.frame.pack()
+        self.frame.grid()
 
         menubar = Menu(master)
         master['menu'] = menubar
