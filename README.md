@@ -73,13 +73,9 @@ Python is probably already installed on your GNU/Linux system.  You can check th
 
   * Mac Installation Instructions
 
-Python is probably already installed on your GNU/Linux system.  You can check that Python is installed by running this command from a terminal:
-
-    python -V
+Python is already installed on your system, but the version that ships with the OS is reported to have a broken Tkinter library.
 
 You can also download a newer version <a href="https://www.python.org/ftp/python/2.7.11/python-2.7.11-macosx10.6.pkg">Python 2.7</a> or <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1-macosx10.6.pkg">Python 3</a> and install (requires administrator privilages).
-
-Note: The default version of Python and Tkinter that ship with Sierra will break.
 
   * Windows Installation Instructions
 
