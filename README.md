@@ -21,12 +21,12 @@ This would be an excellent beginner project for someone with little experience w
 * Add entries to database with minimal student information
 * Edit database through administrator program
 * Statistical analysis through administrator program
-* Dosage reporting (How long did they stay?)
+* Dosage reporting (How long did participants stay?)
 * Includes a sign-out capability
 * Gender reports (how many members on any given timeframe were male, female, etc.)
-* Track trends from one period to another
+* Compare trends from one period to another
 * Track mentoring information
-* Which mentors are around when members are around?
+* Track volunteers - Which mentors are around when members are around?
 * Customizable reports/custom queries with custom fields
 * Under-represented group reporting
 * Answers A&P report questions for a given time period (for example, Jan1-July1 or July2-Dec 31)
@@ -78,6 +78,8 @@ Python is probably already installed on your GNU/Linux system.  You can check th
     python -V
 
 You can also download a newer version <a href="https://www.python.org/ftp/python/2.7.11/python-2.7.11-macosx10.6.pkg">Python 2.7</a> or <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1-macosx10.6.pkg">Python 3</a> and install (requires administrator privilages).
+
+Note: The default version of Python and Tkinter that ship with Sierra will break.
 
   * Windows Installation Instructions
 
