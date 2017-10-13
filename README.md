@@ -75,9 +75,10 @@ Python is probably already installed on your GNU/Linux system.  You can check th
 
 Python is already installed on your system, but the version that ships with the OS is reported to have a broken Tkinter library.
 
-To install Tkinter, follow <a href="http://www.tkdocs.com/tutorial/install.html">this guide to install ActiveSlate</a> (which is closed source).
+Note: To install Tkinter, you must install ActiveSlate which is closed source.
 
-You can also download a newer version <a href="https://www.python.org/ftp/python/2.7.14/python-2.7.14-macosx10.6.pkg">Python 2.7</a> or <a href="https://www.python.org/ftp/python/3.6.3/python-3.6.3-macosx10.6.pkg">Python 3</a> and install (requires administrator privilages).
+Download the suggest python 2 or python 3 and ActiveSlate from <a href="https://www.python.org/download/mac/tcltk/">this link</a>.  Installing software will require administrator privilages.
+
 
   * Windows Installation Instructions
 
