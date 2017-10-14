@@ -5,7 +5,7 @@ SignIn software to aid educational environments
 
 This is an INCOMPLETE project to create a sign in solution for a building, room, or small youth organization.
 
-Instead of dedicating a full size computer all day with an overly complex barrier to entry, imagine a tiny Raspberry Pi connected to a monitor, keyboard, and mouse at the front of the building.  This low cost computer could act as a Sign In solution to track attendance in your building.
+Instead of dedicating a full size computer all day with an overly complex barrier to entry, imagine a tiny Raspberry Pi connected to a monitor, keyboard, and mouse at the front of the building.  This low cost computer could act as a simple Sign In solution to track attendance in your building.
 
 This would be an excellent beginner project for someone with little experience with python.
 
