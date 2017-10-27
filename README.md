@@ -1,5 +1,8 @@
 # SignIn
-SignIn software to aid educational environments
+
+This project is not complete, you should use [chronophore](https://github.com/mesbahamin/chronophore) instead unless you want to practice your development skills.
+
+SignIn kiosk software to aid educational environments
 
 ![Screenshot](https://github.com/TechnologyClassroom/SignIn/blob/master/docs/SignIn.PNG?raw=true "Screenshot")
 
